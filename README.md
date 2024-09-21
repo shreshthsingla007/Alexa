@@ -1,2 +1,3 @@
-# Alexa
-A voice understanding AI software like Alexa
+# Helium - Voise Assistant
+
+A voice understanding AI software
