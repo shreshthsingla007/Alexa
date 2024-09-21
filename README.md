@@ -1,3 +1,3 @@
-# Helium - Voise Assistant
+# Helium - Voice Assistant
 
 A voice understanding AI software
